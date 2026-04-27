@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+*.pyc
+*-sanitized.png
+*-sanitized.jpg
+*-sanitized.jpeg
