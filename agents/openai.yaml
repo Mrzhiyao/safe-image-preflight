@@ -1,0 +1,4 @@
+interface:
+  display_name: "Safe Image Preflight"
+  short_description: "Sanitize risky images before viewing"
+  default_prompt: "Use $safe-image-preflight to sanitize this image path before viewing it."
